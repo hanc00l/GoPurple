@@ -2,7 +2,13 @@
 
 This project is a simple collection of various shell code injection techniques, aiming to streamline the process of endpoint detection evaluation, beside challenging myself to get into Golang world.
 
+# *Update
 
+1 - Payload encrypted by AES(ECB128bit) and Key provided by Client
+
+2 - Add PayloadServer for client
+
+3 - Change HTTP request method to "POST"
 
 
 # Installation
